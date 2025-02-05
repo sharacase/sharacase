@@ -1,0 +1,142 @@
+/* Estilos generales */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f0f0f0;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+/* Título principal */
+h1 {
+  color: #ff69b4;
+  font-size: 3rem;
+  text-align: center;
+  margin-top: 20px;
+  font-family: 'Comic Sans MS', cursive, sans-serif;
+}
+
+/* Botón de nuevo producto */
+button {
+  background-color: #ff69b4;
+  color: white;
+  font-size: 1.2rem;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  margin-top: 20px;
+  transition: background-color 0.3s ease;
+}
+
+button:hover {
+  background-color: #ff1493;
+}
+
+/* Formulario */
+form {
+  background-color: #fff;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+  margin-top: 20px;
+  width: 300px;
+}
+
+form label {
+  font-weight: bold;
+  margin-top: 10px;
+  display: block;
+  color: #ff1493;
+}
+
+form input {
+  width: 100%;
+  padding: 10px;
+  margin-top: 5px;
+  border-radius: 5px;
+  border: 1px solid #ccc;
+  margin-bottom: 15px;
+}
+
+form button {
+  background-color: #ff1493;
+  color: white;
+  padding: 10px 20px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+form button:hover {
+  background-color: #ff69b4;
+}
+
+/* Tabla */
+table {
+  width: 80%;
+  margin-top: 30px;
+  border-collapse: collapse;
+  background-color: white;
+  box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+}
+
+table th, table td {
+  padding: 12px;
+  text-align: center;
+  border: 1px solid #ddd;
+}
+
+table th {
+  background-color: #ff1493;
+  color: white;
+}
+
+table tr:nth-child(even) {
+  background-color: #f9f9f9;
+}
+
+table tr:hover {
+  background-color: #ffe6f2;
+}
+
+/* Estilos para los botones de acción (editar/eliminar) */
+button.btnEditar, button.btnEliminar {
+  background-color: #ff1493;
+  color: white;
+  border: none;
+  border-radius: 5px;
+  padding: 8px 12px;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
+}
+
+button.btnEditar:hover {
+  background-color: #ff69b4;
+}
+
+button.btnEliminar {
+  background-color: #ff6347;
+}
+
+button.btnEliminar:hover {
+  background-color: #ff0000;
+}
+
+/* Para centrar todo dentro del body */
+body {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  height: 100vh;
+}
+
+/* Fondo de Hello Kitty (si te interesa agregar un toque visual) */
+body {
+  background: url('https://wallpaperaccess.com/full/8253662.jpg') no-repeat center center fixed;
+  background-size: cover;
+}
