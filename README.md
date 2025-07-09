@@ -1,18 +1,34 @@
--👋 Hi, I’m @sharacase
+# 👋 ¡Hola! Soy Sara Carrasco (@sharacase)
 
--👀 I’m interested in cybersecurity, web development, and creating efficient systems.
+🎓 Técnica en Administración de Sistemas Informáticos en Red  
+🔐 Apasionada de la ciberseguridad, los sistemas y las infraestructuras  
+🐧 Linux Lover | 📡 DevOps en proceso | ☁️ Explorando la nube
 
--🌱 I’m currently learning backend development, focusing on Node.js and database management.
+---
 
--💞️ I’m looking to collaborate on web security projects and anything that involves coding challenges and improving systems.
+### 🛠️ Tecnologías y herramientas:
 
--📫 How to reach me: You can reach me via GitHub.
+- **Sistemas:** Linux (Ubuntu, Debian), Windows Server
+- **Redes:** BIND9, DNS, DHCP, NAT, VLAN
+- **Bases de datos:** PostgreSQL, MongoDB, MySQL
+- **DevOps:** Docker, Kubernetes, Git, GitHub, CI/CD
+- **Lenguajes:** Bash, Python básico, SQL
+- **Otros:** Kafka, Moodle, Reflex, PSAMS
 
--😄 Pronouns: She/Her
+---
 
--⚡ Fun fact: I love solving puzzles and finding innovative ways to approach problems, both in coding and everyday situations!
+### 📚 Repositorios destacados:
 
-<!---
-sharacase/sharacase is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 🔐 [`redsec`](https://github.com/sharacase/redsec): Simulador de ciberataques para empresas
+- 🌐 [`asir-lab`](https://github.com/sharacase/asir-lab): Laboratorios y apuntes de ASIR
+- 🗃️ [`docker-postgres-mongo`](https://github.com/sharacase/docker-postgres-mongo): Infraestructura con bases de datos usando Docker
+
+---
+
+### 🚀 Objetivos actuales:
+- Mejorar mi scripting en Bash y Python
+- Profundizar en automatización con Ansible y CI/CD
+- Obtener LPIC-1 y CompTIA Security+
+
+---
+
