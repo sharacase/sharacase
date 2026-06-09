@@ -41,7 +41,7 @@ Orientado a despliegue seguro y buenas prácticas de configuración.
 ## 🎯 Objetivos 2026
 
 - [ ] Completar TryHackMe SOC Level 1
-- [ ] Obtener CompTIA Security+
+- [x] Obtener Especializacion en Ciberseguridad
 - [ ] Construir escritura técnica en GitHub (writeups, análisis)
 - [ ] Primera posición en blue team o sistemas seguros
 
