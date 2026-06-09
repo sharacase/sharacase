@@ -1,6 +1,6 @@
 # Sara Carrasco Sesmero — Técnica en Ciberseguridad
 
-**Especialización FP en Ciberseguridad** · ASIR · Guadalajara, España
+**Especialización FP en Ciberseguridad** · ASIR · Madrid, España
 
 Busco mi primer puesto en ciberseguridad con foco en **blue team / SOC** o **sistemas seguros**.
 Sólida base en administración de sistemas Linux/Windows y redes, con formación específica
